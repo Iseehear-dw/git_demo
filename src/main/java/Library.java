@@ -5,7 +5,8 @@
  * @author dtw20, @date 17/12/16 10:39 PM
  */
 public class Library {
-    public boolean someLibraryMethod() {
-        return true;
-    }
+	public boolean someLibraryMethod() {
+		int i = 0;
+		return true;
+	}
 }
