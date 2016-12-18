@@ -6,10 +6,7 @@
  */
 public class Library {
 	public boolean someLibraryMethod() {
-		int i = 2;
-		String s = "";
-		
-		int j = 3;
+		System.out.println("Hello world");
 		
 		return true;
 	}
