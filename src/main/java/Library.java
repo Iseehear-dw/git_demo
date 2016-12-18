@@ -6,8 +6,11 @@
  */
 public class Library {
 	public boolean someLibraryMethod() {
-		int i = 0;
+		int i = 2;
 		String s = "";
+		
+		int j = 3;
+		
 		return true;
 	}
 }
