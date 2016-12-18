@@ -7,6 +7,7 @@
 public class Library {
 	public boolean someLibraryMethod() {
 		int i = 0;
+		String s = "";
 		return true;
 	}
 }
