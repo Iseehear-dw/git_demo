@@ -8,7 +8,7 @@ public class Library {
 	public boolean someLibraryMethod() {
 		System.out.println("Hello world2");
 
-		int i = 0;
+		int i = 2;
 		return true;
 	}
 }
